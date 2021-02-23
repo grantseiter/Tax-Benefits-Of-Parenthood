@@ -1,0 +1,55 @@
+// ===========================================================#
+// Title: CTC Zero Reform
+// Reform_File_Author: Grant M. Seiter -- American Enterprise Institute
+// Date: February 2021
+// ===========================================================#
+
+// Reform:
+{
+      "CTC_c": {"2021": 0},
+      "CTC_c_under6_bonus": {"2021": 0},
+      "CTC_ps": {"2021": [0, 0, 0, 0, 0]},
+      "CTC_prt": {"2021": 0.0},
+
+      "ACTC_c": {"2021": 0},
+      "ACTC_rt": {"2021": 0},
+      "ACTC_rt_bonus_under6family": {"2021": 0},
+      "ACTC_Income_thd": {"2021": 0},
+      "ACTC_ChildNum": {"2021": 0},
+
+      "BRCTC_c": {"2021": 0},
+      "BRCTC_ref": {"2021": 0},
+      "BRCTC_ps": {"2021": [0, 0, 0, 0, 0]},
+      "BRCTC_prt": {"2021": 0},
+      "BRCTC_rt": {"2021": 0},
+
+      "NYCTC_c": {"2021": 0},
+      "NYCTC_ref": {"2021": 0},
+      "NYCTC_ps": {"2021": [0, 0, 0, 0, 0]},
+      "NYCTC_prt": {"2021": 0},
+      "NYCTC_rt": {"2021": 0},
+
+      "CTC_new_c": {"2021": 0},
+      "CTC_new_c_under6_bonus": {"2021": 0},
+      "CTC_new_for_all": {"2021": true},
+      "CTC_new_ps": {"2021": [0, 0, 0, 0, 0]},
+      "CTC_new_prt": {"2021": 0},
+      "CTC_new_Age": {"2021": false},
+
+      "RomneyCA_c": {"2021": 0}, 
+      "RomneyCA_under6_bonus": {"2021": 0}, 
+      "RomneyCA_limit": {"2021": 0},
+      "RomneyCA_ps": {"2021": [0, 0, 0, 0, 0]}, 
+      "RomneyCA_prt": {"2021": 0},
+      "RomneyCA_Age": {"2021": false},
+
+      "CTC_2Step_c1": {"2021": 0},
+      "CTC_2Step_c1_under6_bonus": {"2021": 0},
+      "CTC_2Step_ps1": {"2021": [0, 0, 0, 0, 0]},
+      "CTC_2Step_prt1": {"2021": 0},
+      "CTC_2Step_c2": {"2021": 0},
+      "CTC_2Step_c2_under6_bonus": {"2021": 0.0},
+      "CTC_2Step_ps2": {"2021": [0, 0, 0, 0, 0]},
+      "CTC_2Step_prt2": {"2021": 0},
+      "CTC_2Step_Age": {"2021": false}
+      }

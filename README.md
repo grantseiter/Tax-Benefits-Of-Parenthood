@@ -25,6 +25,6 @@ on various tax policy topics, including corporate taxation, international tax po
 ### Note:
 This repository contains code and data used in a study on three recent proposals to expand child tax benefits (The Biden Administration Proposal, The Ways and Means Committee Proposal, and The Family Security Act). 
 
-“[The Tax Benefits of Parenthood: A History and Analysis of Current Proposals](https://www.aei.org/research-products/reports/),” Alex Brill, Kyle Pomerleau, and Grant M. Seiter, AEI Report, American Enterprise Institute (February 23, 2021).
+“[The Tax Benefits of Parenthood: A History and Analysis of Current Proposals](https://www.aei.org/research-products/report/the-tax-benefits-of-parenthood-a-history-and-analysis-of-current-proposals/),” Alex Brill, Kyle Pomerleau, and Grant M. Seiter, AEI Report, American Enterprise Institute (February 23, 2021).
 
 Disclaimer: The American Enterprise Institute for Public Policy Research (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does not take institutional positions on any issues. The views expressed here are those of the author(s).

@@ -1,0 +1,20 @@
+// ===========================================================#
+// Title: CTC from 2018 to 2025 (Current Law)
+// Reform_File_Author: Grant M. Seiter -- American Enterprise Institute
+// Date: February 2021
+// ===========================================================#
+
+// Reform:
+{
+      "CTC_c": {"2021": 2000},
+      "CTC_c_under6_bonus": {"2021": 0},
+      "CTC_ps": {"2021": [200000, 400000, 200000, 200000, 400000]},
+      "CTC_prt": {"2021": 0.05},
+
+      "ACTC_c": {"2021": 1400},
+      "ACTC_rt": {"2021": 0.15},
+      "ACTC_rt_bonus_under6family": {"2021": 0},
+      "ACTC_Income_thd": {"2021": 2500}, 
+      "ACTC_ChildNum": {"2021": 3}
+      }
+
